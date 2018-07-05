@@ -15,7 +15,8 @@
         "start:dev"
       ],
       "port": 5000,
-      "cwd": "${workspaceFolder}/server"
+      "cwd": "${workspaceFolder}/server",
+      "console": "integratedTerminal"
     }
   ]
 }
